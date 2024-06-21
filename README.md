@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Scottie</h1>
 <h3 align="center">A passionate Computer Science & Econ student at Columbia Uiveristy</h3>
 
-- 👯 I’m looking to collaborate on **computer vision or data analytics projects**
+- 👯 I’m looking to collaborate on **Computer vision or Data Analytics** projects
 
 - 👨‍💻 Check out my website at [https://scottiewilliamson.com/](https://scottiewilliamson.com/)
 
