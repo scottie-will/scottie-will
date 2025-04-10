@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Computer vision or Data Analytics** projects
 
-- 👨‍💻 Check out my website at [https://scottiewilliamson.com/](https://scottiewilliamson.com/)
+<! --- 👨‍💻 Check out my website at [https://scottiewilliamson.com/](https://scottiewilliamson.com/) -->
 
 - 📫 How to reach me **s.williamson@columbia.edu**
 
