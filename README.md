@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Scottie</h1>
-<h3 align="center">A passionate Computer Science & Econ student at Columbia Uiveristy</h3>
+<h3 align="center">A passionate Computer Science & Econ student at Columbia Univeristy</h3>
 
 
 
